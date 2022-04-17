@@ -1,0 +1,58 @@
+{
+  "name": "EZ #15",
+  "symbol": "IDK",
+  "description": "Remember to replace this description I WONT",
+  "seller_fee_basis_points": 0,
+  "image": "15.png",
+  "external_url": "",
+  "edition": 15,
+  "collection": {
+    "name": "Some name",
+    "family": "Some family"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "15.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+        "share": 100
+      }
+    ]
+  }
+}
