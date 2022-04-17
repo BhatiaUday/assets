@@ -3,7 +3,7 @@
   "symbol": "IDK",
   "description": "Remember to replace this description I WONT",
   "seller_fee_basis_points": 0,
-  "image": "8.png",
+  "image": "https://raw.githubusercontent.com/BhatiaUday/assets/main/8.png",
   "external_url": "",
   "edition": 8,
   "collection": {
@@ -43,7 +43,7 @@
   "properties": {
     "files": [
       {
-        "uri": "8.png",
+        "uri": "https://raw.githubusercontent.com/BhatiaUday/assets/main/8.png",
         "type": "image/png"
       }
     ],
